@@ -71,7 +71,7 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 10 rules. Full text in [SKILL.md](./skills/i-have-adhd/SKILL.md).
 
 1. Lead with the next action.
-2. Number multi-step tasks.
+2. Number every list, not just steps.
 3. End with one concrete next step.
 4. Suppress tangents.
 5. Restate state every turn.
@@ -80,6 +80,8 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 8. Matter-of-fact errors.
 9. Cap lists to 5 items.
 10. No preamble. No recap. No closers.
+
+Plus an emphasis section: backticks carry the load, bold is capped at two spans per screen.
 
 ## Tune it
 

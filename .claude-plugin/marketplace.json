@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
   "name": "i-have-adhd",
-  "description": "Shape Claude Code output for an ADHD reader. Action-first, numbered steps, no tangents.",
+  "description": "Shape Claude Code output for an ADHD reader. Action-first, numbered lists, no tangents.",
   "owner": {
     "name": "Ayoub G."
   },

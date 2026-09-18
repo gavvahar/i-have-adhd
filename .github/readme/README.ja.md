@@ -66,7 +66,7 @@ Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd,
 ルールは10個。全文は [SKILL.md](../../skills/i-have-adhd/SKILL.md) を参照してください。
 
 1. 次に取る行動から始める。
-2. 複数ステップの作業には番号を付ける。
+2. 手順に限らず、すべてのリストに番号を付ける。
 3. 2分以内にできる具体的な次の一手で終える。
 4. 脱線を防ぐ。
 5. ターンごとに現在の進捗・状態を明記する。
@@ -75,6 +75,8 @@ Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd,
 8. エラーは場所・原因・対処法だけを淡々と伝える。
 9. リストは最大5項目までに抑える。
 10. 前置き・要約・締めの挨拶は入れない。
+
+さらに強調のセクション: バッククォートが主役で、太字は 1 画面あたり 2 か所までに抑える。
 
 ## カスタマイズ
 

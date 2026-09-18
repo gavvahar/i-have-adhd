@@ -71,7 +71,7 @@ Una *skill* para tu asistente de código que evita que entierre la respuesta. Ac
 10 reglas. Texto completo en [SKILL.md](../../skills/i-have-adhd/SKILL.md).
 
 1. Empieza con la siguiente acción.
-2. Numera las tareas de varios pasos.
+2. Numera todas las listas, no solo los pasos.
 3. Termina con un paso concreto a seguir.
 4. Suprime las tangentes.
 5. Reafirma el estado en cada turno.
@@ -80,6 +80,8 @@ Una *skill* para tu asistente de código que evita que entierre la respuesta. Ac
 8. Errores mostrados de forma directa (matter-of-fact).
 9. Limita las listas a 5 elementos.
 10. Sin preámbulos. Sin resúmenes. Sin frases de cierre.
+
+Además, una sección de énfasis: las comillas invertidas hacen el trabajo principal y la negrita se limita a dos fragmentos por pantalla.
 
 ## Ajustarlo
 

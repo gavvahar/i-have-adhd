@@ -40,7 +40,7 @@ Add to `~/.gemini/GEMINI.md`:
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -49,6 +49,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -215,7 +217,7 @@ Add to `~/.codex/AGENTS.md`:
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -224,6 +226,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -278,7 +282,7 @@ Add the block to `~/.grok/AGENTS.md`, or drop it in `~/.grok/rules/i-have-adhd.m
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -287,6 +291,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -400,7 +406,7 @@ Add the block below to `.github/copilot-instructions.md` in the project (Copilot
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -409,6 +415,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -465,7 +473,7 @@ Add to the `AGENTS.md` in your working directory (Hermes loads it per workdir), 
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -474,6 +482,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -778,7 +788,7 @@ Add to your personal `~/.config/zed/AGENTS.md`:
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -787,6 +797,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
@@ -848,7 +860,7 @@ Paste this into your agent's persistent rules file. Cursor: **Settings → Rules
 The reader has ADHD. Shape every response so it can be acted on:
 
 1. Lead with the answer or next action: command, path, or snippet first.
-2. Number multi-step work; one bounded action per step.
+2. Number every list: steps, findings, options, trade-offs. One idea per item.
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
@@ -857,6 +869,8 @@ The reader has ADHD. Shape every response so it can be acted on:
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
+
+Emphasis: backticks for anything typed, run, or opened; bold at most two spans per screen; no color, no ANSI codes.
 
 Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```

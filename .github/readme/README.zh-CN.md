@@ -70,7 +70,7 @@ Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd,
 共 10 条规则。完整内容见 [SKILL.md](../../skills/i-have-adhd/SKILL.md)。
 
 1. 先说下一步行动。
-2. 多步骤任务使用编号。
+2. 所有列表都使用编号，不只是步骤。
 3. 以一个具体的下一步收尾。
 4. 抑制离题内容。
 5. 每轮重述当前状态。
@@ -79,6 +79,8 @@ Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd,
 8. 就事论事地报告错误。
 9. 每个列表最多 5 项。
 10. 不写开场白、回顾或结束语。
+
+另有强调一节：反引号承担主要作用，加粗每屏最多两处。
 
 ## 自定义
 

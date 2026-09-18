@@ -40,7 +40,7 @@ Adicione ao `~/.gemini/GEMINI.md`:
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -49,6 +49,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -156,7 +158,7 @@ Adicione ao `~/.codex/AGENTS.md`:
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -165,6 +167,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -278,7 +282,7 @@ Adicione o bloco abaixo ao `.github/copilot-instructions.md` do projeto (o Copil
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -287,6 +291,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -342,7 +348,7 @@ Adicione ao `AGENTS.md` do diretório de trabalho (o Hermes o carrega por diret�
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -351,6 +357,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -443,7 +451,7 @@ Adicione ao `AGENTS.md` do projeto:
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -452,6 +460,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -545,7 +555,7 @@ Adicione ao seu `~/.config/zed/AGENTS.md` pessoal:
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -554,6 +564,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
@@ -615,7 +627,7 @@ Cole isto no arquivo de regras persistentes do agente. Cursor: **Settings → Ru
 A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
-2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
+2. Numere todas as listas: etapas, achados, opções, trade-offs. Uma ideia por item.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
 4. Conclua o problema atual antes de levantar outro.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
@@ -624,6 +636,8 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 8. Erros: informe local, causa e correção, sem drama.
 9. Limite listas a 5 itens.
 10. Sem preâmbulo, recapitulação ou despedida.
+
+Ênfase: crases para tudo que for digitado, executado ou aberto; no máximo dois trechos em negrito por tela; sem cores nem códigos ANSI.
 
 Exceções: explique por completo quando pedirem. Confirme antes de ações destrutivas. Após três tentativas de correção sem sucesso, pare e identifique a suposição duvidosa. Se o pedido for ambíguo, faça uma pergunta curta.
 ```
