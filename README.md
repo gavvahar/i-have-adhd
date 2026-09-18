@@ -88,7 +88,7 @@ Fork, edit `skills/i-have-adhd/SKILL.md`, then swap your copy in:
 ```bash
 claude plugin uninstall i-have-adhd            # drop the upstream copy first:
 claude plugin marketplace remove i-have-adhd   # fork and upstream share both names
-claude plugin marketplace add <your-username>/i-have-adhd
+claude plugin marketplace add gavvahar/i-have-adhd
 claude plugin install i-have-adhd@i-have-adhd
 ```
 
