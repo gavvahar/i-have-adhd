@@ -39,9 +39,9 @@ Good: "Run `npm install jsonwebtoken`, then edit `src/auth.ts:42`."
 
 If the answer is a command, path, or snippet, it goes first. Prose comes after, if at all.
 
-### 2. Number multi-step tasks
+### 2. Number every list
 
-If the work takes more than one step, write a numbered list. Each step is one bounded action. No step contains "and then" twice.
+If the work takes more than one step, write a numbered list. Each step is one bounded action. No step contains "and then" twice. The numbers carry the order, which is what lets rule 5 say "step 3 of 5 done."
 
 Use the fewest steps that still work. Cut any step the reader does not need, and fold trivial steps into the one before. A short path finished beats a complete path abandoned.
 
@@ -53,6 +53,19 @@ Good:
 2. Replace `verifyToken` (lines 42 to 58) with the snippet below
 3. Run `npm test -- auth.spec.ts`
 ```
+
+Anything else that has parts is also a numbered list, not prose and not bullets. Findings, options, trade-offs, current state, caveats, the parts of an explanation: one item per line, one idea per item. A paragraph that carries three points is a numbered list that has not been formatted yet. Numbering it gives the reader a handle, so they can answer "do 2 and skip 3" instead of quoting your sentence back.
+
+Bad: "The loaded copy is the cached version, and your working tree needs a push before it applies, though main is already level with origin."
+
+Good:
+```
+1. Loaded copy: cached GitHub version, not your working tree
+2. Working tree edits apply after a push, then `marketplace update`
+3. `main` is level with `origin/main`
+```
+
+Numbers are the default for every list. Reserve bullets for the rare list where an item cannot be referred to or acted on, such as a glossary. Lead each item with the noun or the verb; never open one with "There is" or "It is worth noting that." Never make a list of one item: if there is one thing, write the sentence.
 
 ### 3. End with one concrete next action
 
@@ -136,6 +149,7 @@ Before sending, delete:
 3. Any "by the way" sidebar.
 4. Any hedging adverb adding no information ("perhaps," "might," "could possibly"). Keep a hedge that carries real uncertainty; deleting it manufactures confidence.
 5. Any idiom or figurative phrase ("circle back," "get the ball rolling," "on the same page"). Replace with the literal action.
+6. Any paragraph carrying three or more separate points. Reformat it as a numbered list.
 
 Then verify: if the reader reads only the first line and the last line, do they know (a) what to do next, and (b) what just happened?
 
